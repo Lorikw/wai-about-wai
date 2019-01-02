@@ -54,7 +54,8 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 **To translate a WAI resource:**
 After you have completed the steps above and after you have received notification that the resources is ready to be translated, follow the steps below either in GitHub or via e-mail.
 
-**_'If you can use GitHub: {#git}_**'
+**_'If you can use GitHub:_**' {#git}
+
 4. Go to the English version of the resource. Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
 5. Make changes. In the Commit changes area:
    * Select the option button for "Create a new branch for this commit and start a pull request." 
@@ -63,7 +64,8 @@ After you have completed the steps above and after you have received notificatio
 7. When you are done with your translation, create a new pull request. Under "Assignees", put ''slhenry''. If you have suggestions for Reviews who use GitHub, you can select them under Reviewers. If they are not in GitHub, you can list their name and contact info in the comment area.
    * We will contact you if something is needed. Otherwise, you will get notification from GitHub when the translation is published.
 
-**_'If you are not comfortable with GitHub, use e-mail: {nogit}_**'
+**_'If you are not comfortable with GitHub, use e-mail: _**' {nogit}
+
 4. Go to the English version of the resource.
    * Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
    * Select all the text from the "Edit file" area. (You can probably: click anywhere in the text area, select all (in Windows: Ctrl+A; Mac: a+A), copy (in Windows: Ctrl+C; Mac: a+C).
