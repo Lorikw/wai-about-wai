@@ -1,5 +1,5 @@
 ---
-title: Translating WAI Documents
+title: DRAFT UPDATE: Translating WAI Documents
 nav_title: Translating
 github:
   repository: w3c/wai-about-wai
@@ -9,6 +9,17 @@ doc-note-message: >
   <p><strong>This page is outdated. It will be updated by early 2019.</strong></p>
   <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and WCAG 2.1.</p>
 ---
+
+{::nomarkdown}
+{% include box.html type="start" title="Summary" class="" %}
+{:/}
+
+This page provides guidance on translating WAI resources.<br>If you want a list of existing translations, see [All WAI Translations](@@).
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
+
 
 {::options toc_levels="2" /}
 
@@ -23,79 +34,87 @@ doc-note-message: >
 {% include_cached toc.html type="end" %}
 {:/}
 
-## Translation Assistance Welcome
 
-We welcome your assistance translating documents developed by the World
-Wide Web Consortium (W3C) Web Accessibility Initiative (WAI). This page
-includes information on the W3C translation policy, how to coordinate
-with W3C and WAI when translating documents, and [priorities for
-translations of WAI documents](#priorities).
+Thank you for your interest in translating resources from the World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI).
 
-### Existing Translations
+You are welcome to translate any WAI resource. For suggestions on which to translate first, see [Translation Priorities below].
 
-[A list of all WAI document
-translations](http://www.w3.org/2005/11/Translations/Query?lang=any&translator=any&date=any&docSelection=choose&rec=none&note=none&tut=none&wai=any&i18n=none&qa=none&misc=none&sorting=byTechnology&output=FullHTML&submit=Submit)
-is available from the W3C translations database.
+**Scope:**
+* The instructions cover web pages with a URI that begins with www.w3.org/WAI
+* For web pages that begin with www.w3.org/TR/ there is a different process that is being updated in early 2019. Some information is in [TR Translations below](@@).
 
-To get a list of WAI documents already translated in a specific
-language, use the [advanced
-search](http://www.w3.org/2005/11/Translations/TranslationSearch.html)
-and "Choose a language", and under "Web Accessibility Documents" select
--- Any WAI Documents --.
+## Translation Steps
 
-## W3C Translation Policy
+**If you want to translate a WAI resource:**
+1. Read [Translations Guidance below](@@).
+2. Check that there is not already a translation completed or in-progress. {@@link to list – hopefully W3C list; otherwise, maybe All WAI Translations & WCAG 2 Translations}
+3. Indicate your interest in translating the resource by {@@GitHub issue for W3C system – or sending an e-mail to the [w3c-translators@w3.org mailing list](mailto:w3c-translators@w3.org) &/or wai-translations ?}
+   * WAI staff will send you an e-mail letting you know that the resource is ready to be translated.
 
-**Please read [Translations at
-W3C](http://www.w3.org/Consortium/Translation/) for the overall policy,
-procedures, and support on translating W3C documents.**
+**To translate a WAI resource:**
+After you have completed the steps above and after you have received notification that the resources is ready to be translated, follow the steps below either in GitHub or via e-mail.
 
-More detailed information is available in W3C's [intellectual rights
-FAQ](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620), particularly
-under the question [can I translate one of your specifications into
-another
-language?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate)
-There is also useful information in the section on [W3C
-Documents](http://www.w3.org/Consortium/Legal/IPR-FAQ.html#Documents) in
-the FAQ, including the "[can I change
-it?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#really)"
-question; the "[is it
-official?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#official)"
-question, and the "[can I annotate
-it?](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate)"
-question. It is also important to read the information on [W3C document
-use](http://www.w3.org/Consortium/Legal/copyright-documents.html).
+**_'If you can use GitHub: {#git}_**'
+4. Go to the English version of the resource. Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
+5. Make changes. In the Commit changes area:
+   * Select the option button for "Create a new branch for this commit and start a pull request." 
+   * Change the branch name (from ''you-patch-1'') to ''[language code]-translation'' using the language codes from I[ANA language code](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry) <br>for example: zh-translation
+6. You can preview your translation from @@
+7. When you are done with your translation, create a new pull request. Under "Assignees", put ''slhenry''. If you have suggestions for Reviews who use GitHub, you can select them under Reviewers. If they are not in GitHub, you can list their name and contact info in the comment area.
+   * We will contact you if something is needed. Otherwise, you will get notification from GitHub when the translation is published.
 
-### Authorized W3C Translations
+**_'If you are not comfortable with GitHub, use e-mail: {nogit}_**'
+4. Go to the English version of the resource.
+   * Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
+   * Select all the text from the "Edit file" area. (You can probably: click anywhere in the text area, select all (in Windows: Ctrl+A; Mac: a+A), copy (in Windows: Ctrl+C; Mac: a+C).
+   * Paste it into a text file.
+5 When you are done with your translation, e-mail it to wai-translations@w3.org with subject: Completed Translation – [language code] – [document name]
+   * We will contact you if something is needed. Otherwise, we will send you e-mail when the translation is published.
 
-Most translations are informative and unofficial. In cases where
-standards translations are meant for official purposes, they may be
-developed as Authorized W3C Translations according to the **[Policy for
-Authorized W3C
-Translations](http://www.w3.org/2005/02/TranslationPolicy.html)**.
-**Generally only completed W3C Recommendations and Working Group Notes
-are candidates for Authorized W3C Translations**, including the WAI
-guidelines, techniques, and other documents listed under "[WAI Technical
-Activity](http://www.w3.org/TR/tr-activity#WAITechnicalActivity)" on the
-W3C Technical Reports and Publications page. The authorized translations
-policy is designed to ensure transparency and community accountability
-in the development of authorized translations under the oversight of
-W3C.
+## Important Translations Guidance
 
-## Coordinating with W3C and WAI
+* Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
+* Make sure to translate image alts.
+* Check if there is any translation guidance for the specific resource.
+   1. Go to the English version of the resource. Near the bottom, in the "Help improve this page" box, select the "New GitHub Issue" button.
+   2. Near the top, click the path after "w3c/", which usually starts with "wai-".
+   3. Scroll down to the README.md section. Any guidance will be under a heading "Translation Notes".
+* Check if there is any translation guidance for the specific language. (@@link)
+* Make sure to translate image alts.
+* **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail with the links in the "Help improve this page" box near the bottom of the page.
 
-If you are translating a WAI document, please follow the instructions
-in [the W3C Translations page on how to help translate a W3C
-document](http://www.w3.org/Consortium/Translation/#volunteer), and be
-sure to notify the [w3c-translators@w3.org mailing
-list](mailto:w3c-translators@w3.org) when you first plan to translate a
-document, and then again when you have finished a translation. You can
-also [subscribe to the translations
-list](http://www.w3.org/Consortium/Translation/#discussions) and ask
-questions about translation on that list. If you have additional
-questions specifically related to WAI documents, you can contact us at
-<wai@w3.org>.
+By submitting a translation, you agree:
+* To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
+* That the W3C may rescind your right to publish or distribute the derivative work if the W3C finds that it leads to confusion regarding the original document's status or integrity. ([Source](http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate).)
 
-## Priorities for Translating WAI Documents
+### Updating Resources
+
+If the English version of a resource is updated, we will inform translators what has changed, and request that translators update their translation.
+
+If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
+
+### Additional Information
+
+General information about [Translations at W3C]( http://www.w3.org/Consortium/Translation/) is being updated in 2019.
+
+More information is available in W3C’s <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a> There is also useful information in the section on <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ.html#Documents">W3C Documents</a> in
+the FAQ, including the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#really">can I change it?</a>” question; the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#official">is it official?</a>” question, and the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate">can I annotate it?</a>” question.
+
+## Translation Priorities
+
+@@
+
+## TR Translations & Authorized W3C Translations
+
+For web pages at URIs that begin with www.w3.org/TR/ there is a different process that is being updated in early 2019. Previous information is available in [W3C Translations](https://www.w3.org/Consortium/Translation/).
+
+Most translations are informative and unofficial. In cases where standards translations are meant for official purposes, they may be developed as Authorized W3C Translations according to the **[Policy for Authorized W3C Translations]( http://www.w3.org/2005/02/TranslationPolicy.html)**. Generally only completed W3C Recommendations and Working Group Notes are candidates for Authorized W3C Translations, including the WAI guidelines. The authorized translations policy is designed to ensure transparency and community accountability in the development of authorized translations under the oversight of W3C.
+
+
+
+
+
+## OLD -- Priorities for Translating WAI Documents --- OLD
 
 People frequently ask us which WAI documents they should translate. Four
 lists are below:
