@@ -72,20 +72,19 @@ After you have completed the steps above and after you have received notificatio
    * Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
    * Select all the text from the "Edit file" area. (You can probably: click anywhere in the text area, select all (in Windows: Ctrl+A; Mac: a+A), copy (in Windows: Ctrl+C; Mac: a+C).
    * Paste it into a text file.
-5 When you are done with your translation, e-mail it to wai-translations@w3.org with subject: Completed Translation – [language code] – [document name]
+5. When you are done with your translation, e-mail it to wai-translations@w3.org with subject: Completed Translation – [language code] – [document name]
    * We will contact you if something is needed. Otherwise, we will send you e-mail when the translation is published.
 
 ## Important Translations Guidance
 
-* Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
-* Make sure to translate image alts.
+* **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail with the links in the "Help improve this page" box near the bottom of the page.
 * Check if there is any translation guidance for the specific resource.
    1. Go to the English version of the resource. Near the bottom, in the "Help improve this page" box, select the "New GitHub Issue" button.
    2. Near the top, click the path after "w3c/", which usually starts with "wai-".
    3. Scroll down to the README.md section. Any guidance will be under a heading "Translation Notes".
 * Check if there is any translation guidance for the specific language. (@@link)
 * Make sure to translate image alts.
-* **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, submit them via GitHub or e-mail with the links in the "Help improve this page" box near the bottom of the page.
+* Please leave the code, HTML, and markdown as is without changing it (other than at the top as noted after #).
 
 By submitting a translation, you agree:
 * To the redistribution terms of the [W3C Document License](https://www.w3.org/Consortium/Legal/2015/doc-license). Your translation may be republished by the W3C or other entities if it is done in compliance with the License terms.
