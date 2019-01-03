@@ -64,6 +64,8 @@ After you have completed the steps above and after you have received notificatio
 
 **_If you are not comfortable with GitHub, use e-mail:_** {#nogit}
 
+_Note that it will likley take much longer to process your translation if you don't use GitHub per above._
+
 4. Go to the English version of the resource.
    * Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
    * Select all the text from the "Edit file" area. (You can probably: click anywhere in the text area, select all (in Windows: Ctrl+A; Mac: a+A), copy (in Windows: Ctrl+C; Mac: a+C).
