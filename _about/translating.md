@@ -124,8 +124,9 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <ul>
 <li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation ([TR process](#tr))
 <ul>
-<li>note: this document may be developed as an <a href="http://www.w3.org/2005/02/TranslationPolicy.html">Authorized W3C Translation</a></li>
 <li><a href="http://www.w3.org/WAI/WCAG20/translations">WCAG 2 Translations</a> lists existing translations</li>
+<li>This document may be developed as an <a href="http://www.w3.org/2005/02/TranslationPolicy.html">Authorized W3C Translation</a></li>
+<li>To get the latest update with errata included, use the [Editor's Draft](https://w3c.github.io/wcag/21/guidelines/)</li>
 </ul>
 </li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG Overview</a></strong> </li>
