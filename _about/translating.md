@@ -120,7 +120,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 <h3>High priority WCAG resources</h3>
 <ul>
-<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> (the      Web Standard / W3C Recommendation)
+<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation ([TR process](#tr))
 <ul>
 <li>note: this document may be developed as an <a href="http://www.w3.org/2005/02/TranslationPolicy.html">Authorized W3C Translation</a></li>
 <li><a href="http://www.w3.org/WAI/WCAG20/translations">WCAG 2 Translations</a> lists existing translations</li>
@@ -183,7 +183,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/tips/designing/">Tips for Getting Started Designing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/writing/"> Tips for Getting Started    Writing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a> &mdash; main page and many sub-pages</li>
-<li><a href="https://www.w3.org/TR/wai-aria-practices-1.1/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices 1.1</a></li>
+<li><a href="https://www.w3.org/TR/wai-aria-practices-1.1/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices 1.1</a> ([TR process](#tr))</li>
 </ul>
 
 <h3>To be updated <em>(might want to wait to translate)</em></h3>
@@ -198,7 +198,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <h3>Others</h3>
 <p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.</strong></p>
 
-## TR Translations & Authorized W3C Translations
+## TR Translations & Authorized W3C Translations {#tr}
 
 For web pages at URIs that begin with www.w3.org/TR/ there is a different process that is being updated in early 2019. Previous information is available in [W3C Translations](https://www.w3.org/Consortium/Translation/).
 
