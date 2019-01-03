@@ -103,7 +103,12 @@ General information about [Translations at W3C]( http://www.w3.org/Consortium/Tr
 More information is available in W3C’s <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a> There is also useful information in the section on <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ.html#Documents">W3C Documents</a> in
 the FAQ, including the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#really">can I change it?</a>” question; the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#official">is it official?</a>” question, and the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate">can I annotate it?</a>” question.
 
-# 
+## WAI Translations Mailing List {#mailinglist}
+
+* To subscribe, send e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a>.
+* To unsubscribe, send e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=unsubscribe">public-wai-translations-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
+
+You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
 
 ## Priorities for Translating WAI Resources {#priorities}
 <p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are only suggested priorities. There are additional WAI resources that are not listed below.</p>
@@ -185,7 +190,7 @@ the FAQ, including the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20
 </ul>
 
 <h3>To be updated <em>(might want to wait to translate)</em></h3>
-<p>The following pages will be updated, and you might want to wait to translate them until after they are updated. To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to public-wai-translations@w3.org, per the instructions above.@@</p>
+<p>The following pages will be updated, and you might want to wait to translate them until after they are updated. To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the [WAI Translations maling list, per above](#mailinglist).</p>
 <ul class="old">
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/"> About W3C WAI </a>&mdash; minor update planned for 2019</li>
 <li><a href="https://www.w3.org/WAI/about/participating/">Participating in WAI</a> (see notes on which parts to translate) &mdash; minor update planned for 2019</li>
