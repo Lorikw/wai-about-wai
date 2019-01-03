@@ -104,10 +104,9 @@ If the changes are only small changes, such as a new paragraph or a new short se
 
 ### Additional Information
 
-General information about [Translations at W3C]( http://www.w3.org/Consortium/Translation/) is being updated in 2019.
+More information is available in W3C's <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
 
-More information is available in W3C’s <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a> There is also useful information in the section on <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ.html#Documents">W3C Documents</a> in
-the FAQ, including “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#really">can I change it?</a>”, “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#official">is it official?</a>”, and “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#annotate">can I annotate it?</a>”.
+General information about [Translations at W3C]( http://www.w3.org/Consortium/Translation/) is being updated in 2019.
 
 ## WAI Translations Mailing List {#mailinglist}
 
