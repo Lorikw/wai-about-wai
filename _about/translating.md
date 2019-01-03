@@ -56,6 +56,7 @@ After you have completed the steps above and after you have received notificatio
 
 4. Go to the English version of the resource. Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
 5. Make changes. In the Commit changes area:
+   * Add the language code to the middle of the filename, for example, index.fr.md
    * Select the option button for "Create a new branch for this commit and start a pull request." 
    * Change the branch name (from ''you-patch-1'') to ''[language code]-translation'' using the language codes from [IANA language code](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry); for example:<br>zh-translation
    * Click the "Propose file change" button.
