@@ -58,6 +58,7 @@ After you have completed the steps above and after you have received notificatio
 5. Make changes. In the Commit changes area:
    * Select the option button for "Create a new branch for this commit and start a pull request." 
    * Change the branch name (from ''you-patch-1'') to ''[language code]-translation'' using the language codes from [IANA language code](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry); for example:<br>zh-translation
+   * Click the "Propose file change" button.
 6. You can preview your translation from @@
 7. When you are done with your translation, create a new pull request. Under "Assignees", put ''slhenry''. If you have suggestions for Reviews who use GitHub, you can select them under Reviewers. If they are not in GitHub, you can list their name and contact info in the comment area.
    * We will contact you if something is needed. Otherwise, you will get notification from GitHub when the translation is published.
