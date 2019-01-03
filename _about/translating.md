@@ -107,8 +107,8 @@ the FAQ, including the “<a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20
 You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
 
 ## Priorities for Translating WAI Resources {#priorities}
-<p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are only suggested priorities. There are additional WAI resources that are not listed below.</p>
-<p>People frequently ask us which WAI documents they should translate. Lists are below:</p>
+
+<p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are only suggested priorities.</p>
 <ol>
 <li>High priority WCAG  resources</li>
 <li>High priority introductory  resources</li>
@@ -130,66 +130,66 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 at a Glance</a></li>
 </ul>
 
-<h3>High priority  introductory resources </h3>
+<h3>High priority introductory resources</h3>
 <ul>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/"> Introduction to Web Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/"> Video Introduction to Web Accessibility and W3C Standards</a> (including  VTT file)</li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/"> Accessibility Principles</a></li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/"> Mobile Accessibility at W3C</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including  VTT file)</li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a></li>
 </ul>
 
 <h3>Main navigation overview pages</h3>
 <ul>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/"> Introduction to Web Accessibility</a> <em>(repeat from above)</em></li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/"> W3C Accessibility Standards Overview</a></li>
-<li><a href="https://www.w3.org/WAI/test-evaluate/"> Evaluating Web Accessibility Overview</a></li>
-<li><a href="https://www.w3.org/WAI/design-develop/"> Design and Develop Overview</a></li>
-<li><a href="https://www.w3.org/WAI/planning/"> Planning and Policies Overview</a></li>
-<li><a href="https://www.w3.org/WAI/teach-advocate/"> Teach and Advocate Overview</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> <em>(repeat from above)</em></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
+<li><a href="https://www.w3.org/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a></li>
+<li><a href="https://www.w3.org/WAI/design-develop/">Design and Develop Overview</a></li>
+<li><a href="https://www.w3.org/WAI/planning/">Planning and Policies Overview</a></li>
+<li><a href="https://www.w3.org/WAI/teach-advocate/">Teach and Advocate Overview</a></li>
 <li><a href="https://www.w3.org/WAI/">WAI home page</a> (see notes on which parts to translate)</li>
 </ul>
 
 <h3>Secondary priority resources</h3>
 <ul>
-<li><a href="https://www.w3.org/WAI/people-use-web/"> How People with Disabilities Use the Web</a> &mdash; 4 pages</li>
+<li><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a> &mdash; 4 pages</li>
 <li>Other standards overviews:
 <ul>
-<li><a href="https://www.w3.org/WAI/fundamentals/components/"> Essential Components of Web Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/aria/"> WAI-ARIA Overview</a><em> (this page will be updated in the future; however, it could be many months before it is updated)</em></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/components/">Essential Components of Web Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA Overview</a><em> (this page will be updated in the future; however, it could be many months before it is updated)</em></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/uaag/">User Agent Accessibility Guidelines (UAAG) Overview</a></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/uaag/">Authoring Tool Accessibility Guidelines (ATAG) Overview</a></li>
 </ul>
 </li>
 <li> Advocating and teaching resources:
 <ul>
-<li><a href="https://www.w3.org/WAI/perspective-videos/"> Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> &mdash; main page, 10 sub-pages including transcripts</li>
-<li><a href="https://www.w3.org/WAI/business-case/"> The Business Case for Digital Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/"> How to Make Your Presentations Accessible to All</a></li>
-<li><a href="https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/"> Contacting Organizations about Inaccessible Websites</a></li>
+<li><a href="https://www.w3.org/WAI/perspective-videos/">Web Accessibility Perspectives: Explore the Impact and Benefits for Everyone</a> &mdash; main page, 10 sub-pages including transcripts</li>
+<li><a href="https://www.w3.org/WAI/business-case/">The Business Case for Digital Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/teach-advocate/accessible-presentations/">How to Make Your Presentations Accessible to All</a></li>
+<li><a href="https://www.w3.org/WAI/teach-advocate/contact-inaccessible-websites/">Contacting Organizations about Inaccessible Websites</a></li>
 </ul>
 </li>
-<li><a href="https://www.w3.org/WAI/planning/interim-repairs/"> </a>Planning and managing resources:
+<li><a href="https://www.w3.org/WAI/planning/interim-repairs/"></a>Planning and managing resources:
 <ul>
 <li><a href="https://www.w3.org/WAI/planning/interim-repairs/">Web Accessibility First Aid: Approaches for Interim Repairs</a></li>
-<li><a href="https://www.w3.org/WAI/planning/involving-users/"> Involving Users in Web Projects for Better, Easier Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/test-evaluate/tools/selecting/"> Selecting Web Accessibility Evaluation Tools </a></li>
+<li><a href="https://www.w3.org/WAI/planning/involving-users/">Involving Users in Web Projects for Better, Easier Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/test-evaluate/tools/selecting/">Selecting Web Accessibility Evaluation Tools </a></li>
 </ul>
 </li>
 </ul>
 
 <h3>Design and development resources</h3>
 <ul>
-<li><a href="https://www.w3.org/WAI/tips/developing/"> Tips for Getting Started    Developing for Web Accessibility </a></li>
+<li><a href="https://www.w3.org/WAI/tips/developing/">Tips for Getting Started    Developing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/designing/">Tips for Getting Started Designing for Web Accessibility </a></li>
-<li><a href="https://www.w3.org/WAI/tips/writing/"> Tips for Getting Started    Writing for Web Accessibility </a></li>
+<li><a href="https://www.w3.org/WAI/tips/writing/">Tips for Getting Started    Writing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tutorials/">Web Accessibility Tutorials</a> &mdash; main page and many sub-pages</li>
-<li><a href="https://www.w3.org/TR/wai-aria-practices-1.1/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices 1.1</a> ([TR process](#tr))</li>
+<li><a href="https://www.w3.org/TR/wai-aria-practices-1.1/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices 1.1</a> ([TR process](#tr))</li>
 </ul>
 
 <h3>To be updated <em>(might want to wait to translate)</em></h3>
 <p>The following pages will be updated, and you might want to wait to translate them until after they are updated. To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the [WAI Translations maling list, per above](#mailinglist).</p>
 <ul class="old">
-<li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/"> About W3C WAI </a>&mdash; minor update planned for 2019</li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/"></a><a href="https://www.w3.org/WAI/about/">About W3C WAI </a>&mdash; minor update planned for 2019</li>
 <li><a href="https://www.w3.org/WAI/about/participating/">Participating in WAI</a> (see notes on which parts to translate) &mdash; minor update planned for 2019</li>
 <li><a href="https://www.w3.org/WAI/test-evaluate/preliminary/">Easy Checks - A First Review of Web Accessibility</a> &mdash; significant update planned for 2019</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> (no date set for the update to be completed)</li>
