@@ -1,5 +1,5 @@
 ---
-title: DRAFT UPDATE: Translating WAI Documents
+title: "DRAFT UPDATE: Translating WAI Documents"
 nav_title: Translating
 github:
   repository: w3c/wai-about-wai
