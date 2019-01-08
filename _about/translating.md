@@ -119,13 +119,22 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 <p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are only suggested priorities.</p>
 <ol>
-<li>High priority WCAG  resources</li>
-<li>High priority introductory  resources</li>
+<li>High priority introductory resources</li>
+<li>High priority WCAG resources</li>
 <li>Main navigation overview pages</li>
 <li>Secondary priority resources</li>
 <li>Design and development resources</li>
 <li>To be updated (might want to wait to translate)</li>
 </ol>
+
+<h3>High priority introductory resources</h3>
+<ul>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></li>
+<li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including  VTT file)</li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
+<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a></li>
+</ul>
 
 <h3>High priority WCAG resources</h3>
 <ul>
@@ -140,18 +149,10 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/standards-guidelines/wcag/glance/">WCAG 2.1 at a Glance</a></li>
 </ul>
 
-<h3>High priority introductory resources</h3>
-<ul>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including  VTT file)</li>
-<li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a></li>
-</ul>
-
 <h3>Main navigation overview pages</h3>
 <ul>
 <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a> <em>(repeat from above)</em></li>
-<li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
+<li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a> <em>(repeat from above)</em></li>
 <li><a href="https://www.w3.org/WAI/test-evaluate/">Evaluating Web Accessibility Overview</a></li>
 <li><a href="https://www.w3.org/WAI/design-develop/">Design and Develop Overview</a></li>
 <li><a href="https://www.w3.org/WAI/planning/">Planning and Policies Overview</a></li>
