@@ -55,7 +55,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 
 **To translate a WAI resource:**
 
-After you have completed the steps above and after you have received notification that the resource is ready to be translated, follow the steps below **_either_** in GitHub or via e-mail. (Translations submitted via GitHub can usually be processed faster.)
+After you have completed the steps above and after you have received notification that the resource is ready to be translated, follow the steps below **_either_** in GitHub or via e-mail. _(Translations submitted via GitHub can usually be processed faster.)_
 
 **_If you can use GitHub:_** {#git}
 
@@ -71,8 +71,6 @@ After you have completed the steps above and after you have received notificatio
    * We will contact you if something is needed. Otherwise, you will get notification from GitHub when the translation is published.
 
 **_If you are not comfortable with GitHub, use e-mail:_** {#nogit}
-
-_Note that it will likely take longer to process your translation if you don't use GitHub per above._
 
 4. Go to the English version of the resource.
    * Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
