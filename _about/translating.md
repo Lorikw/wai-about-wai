@@ -115,7 +115,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 ## Priorities for Translating WAI Resources {#priorities}
 
-<p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are only suggested priorities.</p>
+<p><strong>You are welcome to translate any current WAI resource that you think would be useful in your language.</strong> The lists below are suggested priorities.</p>
 <ol>
 <li>High priority introductory resources</li>
 <li>High priority WCAG resources</li>
