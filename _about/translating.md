@@ -44,7 +44,7 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 * The instructions cover web pages with a URI that begins with www.w3.org/WAI
 * For web pages that begin with www.w3.org/TR/ there is a different process that is being updated in early 2019. Some information is in [TR Translations below](#tr).
 
-## Translation Steps
+## [INCOMPLETE DRAFT] Translation Steps
 
 **If you want to translate a WAI resource:**
 
