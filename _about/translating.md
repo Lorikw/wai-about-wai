@@ -60,12 +60,7 @@ After you have completed the steps above and after you have received notificatio
 **_If you can use GitHub:_** {#git}
 
 4. Go to the English version of the resource. Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
-5. Make a change and save the file:
-   * Add the language code to the middle of the filename (near the top), for example, **index.zh.md**
-   * In the Commit changes area near the bottom:
-       * Select the option button for "Create a new branch for this commit and start a pull request." 
-       * Change the branch name (from ''you-patch-1'') to ''[language code]-translation'' using the language codes from [IANA language code](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry); for example:<br>**zh-translation**
-   * Click the "Propose file change" button.
+5. ...
 6. You can preview your translation from _{@@}_
 7. When you are done with your translation, create a new pull request. Under "Assignees", put ''slhenry''. If you have suggestions for Reviews who use GitHub, you can select them under Reviewers. If they are not in GitHub, you can list their name and contact info in the comment area.
    * We will contact you if something is needed. Otherwise, you will get notification from GitHub when the translation is published.
