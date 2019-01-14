@@ -122,8 +122,8 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 <h3>High priority introductory resources</h3>
 <ul>
+<li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including VTT file)</li>
 <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></li>
-<li><a href="https://www.w3.org/WAI/videos/standards-and-benefits/">Video Introduction to Web Accessibility and W3C Standards</a> (including  VTT file)</li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/">W3C Accessibility Standards Overview</a></li>
 <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">Accessibility Principles</a></li>
 <li><a href="https://www.w3.org/WAI/standards-guidelines/mobile/">Mobile Accessibility at W3C</a></li>
