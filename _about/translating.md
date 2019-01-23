@@ -8,7 +8,7 @@ feedbackmail: wai@w3.org
 footer: |
   <p><strong>Date:</strong> Updated @@ January 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
 ---
 
 {::nomarkdown}
