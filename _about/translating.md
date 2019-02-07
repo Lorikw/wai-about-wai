@@ -4,9 +4,13 @@ nav_title: Translating
 github:
   repository: w3c/wai-about-wai
   path: '_about/translating.md'
+  
 feedbackmail: wai@w3.org
+doc-note-message: >
+  <p><strong>This page is being updated in February 2019. To get notification when it is updated, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></strong></p>
+  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and WCAG 2.1.</p>
 footer: |
-  <p><strong>Date:</strong> Updated @@ January 2018.</p>
+  <p><strong>Date:</strong> Updated 7 February 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
 ---
@@ -15,7 +19,7 @@ footer: |
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on translating WAI resources.<br>If you want a list of existing translations, see [All WAI Translations](@@).
+This page provides guidance on translating WAI resources.<br>If you want a list of existing translations, see [All WAI Translations (_ link coming in February)](@@).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -41,10 +45,10 @@ Thank you for your interest in translating resources from the World Wide Web Con
 You are welcome to translate any WAI resource. For suggestions on which to translate first, see [Priorities for Translations below](#priorities).
 
 **Scope:**
-* The instructions cover web pages with a URI that begins with www.w3.org/WAI
-* For web pages that begin with www.w3.org/TR/ there is a different process that is being updated in early 2019. Some information is in [TR Translations below](#tr).
+* These instructions cover web pages with a URI that begins with www.w3.org/WAI
+* For web pages that begin with www.w3.org/TR/ or something else, there is a different process that is being updated in 2019. Some information is in [TR Translations below](#tr).
 
-## [INCOMPLETE DRAFT] Translation Steps
+## [In-Progress Draft] Translation Steps
 
 **If you want to translate a WAI resource:**
 
