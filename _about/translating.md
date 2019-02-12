@@ -81,8 +81,8 @@ General information about [W3C Translations](http://www.w3.org/Consortium/Transl
 
 ## WAI Translations Mailing List {#mailinglist}
 
-* To subscribe, send e-mail to [public-wai-translations-request@w3.org with subject: subscribe](mailto:public-wai-translations@w3.org&amp;subject=subscribe).
-* To unsubscribe, send e-mail to [public-wai-translations-request@w3.org with subject: unsubscribe](mailto:public-wai-translations@w3.org&amp;subject=unsubscribe).
+* To subscribe, send e-mail to [public-wai-translations-request@w3.org with subject: subscribe](mailto:public-wai-translations-request@w3.org?subject=subscribe).
+* To unsubscribe, send e-mail to [public-wai-translations-request@w3.org with subject: unsubscribe](mailto:mailto:public-wai-translations-request@w3.org?subject=unsubscribe).
 
 You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
 
