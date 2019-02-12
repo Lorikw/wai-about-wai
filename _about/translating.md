@@ -8,7 +8,7 @@ github:
 feedbackmail: wai@w3.org
 doc-note-message: >
   <p><strong>This page is being updated in February 2019. To get notification when it is updated, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></strong></p>
-  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and WCAG 2.1.</p>
+  <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
 footer: |
   <p><strong>Date:</strong> Updated 7 February 2018.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
@@ -19,7 +19,7 @@ footer: |
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page provides guidance on translating WAI resources.<br>If you want a list of existing translations, see [All WAI Translations (_ link coming in February)](@@).
+This page provides guidance on translating WAI resources.<br>For a list of existing translations, see [All WAI Translations _(link coming in February)_](@@).
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -48,35 +48,13 @@ You are welcome to translate any WAI resource. For suggestions on which to trans
 * These instructions cover web pages with a URI that begins with www.w3.org/WAI
 * For web pages that begin with www.w3.org/TR/ or something else, there is a different process that is being updated in 2019. Some information is in [TR Translations below](#tr).
 
-## [In-Progress Draft] Translation Steps
+## [DRAFT In-Progress] Translation Steps
 
 **If you want to translate a WAI resource:**
 
-1. Read [Important Translations Guidance below](#important).
-2. Check that there is not already a translation completed or in-progress. _{@@link to list – hopefully W3C list; otherwise, maybe All WAI Translations & WCAG 2 Translations – but that doesn’t get in-progress…}_
-3. Indicate your interest in translating the resource by _{@@GitHub issue for W3C system – or sending an e-mail to the [w3c-translators@w3.org mailing list](mailto:w3c-translators@w3.org) &/or public-wai-translations@w3.org …}_
-   * WAI staff will send you an e-mail letting you know that the resource is ready to be translated.
-
-**To translate a WAI resource:**
-
-**After you have received notification that the resource is ready to be translated** per above, follow the steps below **_either_** in GitHub or via e-mail. _(Translations submitted via GitHub can usually be processed faster.)_
-
-**_If you can use GitHub:_** {#git}
-
-4. Go to the English version of the resource. Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
-5. ...
-6. You can preview your translation from _{@@}_
-7. When you are done with your translation, create a new pull request. Under "Assignees", put ''slhenry''. If you have suggestions for Reviews who use GitHub, you can select them under Reviewers. If they are not in GitHub, you can list their name and contact info in the comment area.
-   * We will contact you if something is needed. Otherwise, you will get notification from GitHub when the translation is published.
-
-**_If you are not comfortable with GitHub, use e-mail:_** {#nogit}
-
-4. Go to the English version of the resource.
-   * Near the bottom, in the "Help improve this page" box, select the "Fork & Edit on GitHub" button.
-   * Select all the text from the "Edit file" area. (You can probably: click anywhere in the text area, select all (in Windows: Ctrl+A; Mac: cmd+A), copy (in Windows: Ctrl+C; Mac: cmd+C).
-   * Paste it into a text file.
-5. When you are done with your translation, e-mail it to [public-wai-translations@w3.org with subject: Completed Translation – {language code} – {resource title}](mailto:public-wai-translations@w3.org?subject=Completed%20Translation%20%E2%80%93%20%5Blanguage%20code%5D%20%E2%80%93%20%5Bresource%20title%5D)
-   * We will contact you if something is needed. Otherwise, we will send you e-mail when the translation is published.
+1. Check that there is not already a completed translation listed in [All WAI Translations _(link coming in February)_](@@). <!-- in future, link to W3C list instead, which will also show in-progress translations (and update these instructions) -->
+2. Indicate your interest in translating the resource by sending an e-mail to the WAI and W3C translations lists using this [e-mail template](mailto:public-wai-translations@w3.org?cc=w3c-translators@w3.org&amp;subject=%5Blang%5D%20Intent%20to%20Translate%3A%20%5Btitle%5D&amp;body=I%20would%20like%20to%20translate%20in%20to%20%5Blanguage%5D%20the%20following%20resource%3A%0A%5BEnglish%20title%5D%0A%5BURI%5D%0A%0AI%20have%20read%20the%20information%20on%20Translating%20WAI%20Documents%20at%20https%3A%2F%2Fwww.w3.org%2FWAI%2Fabout%2Ftranslating%2F%0A%0AI%20will%20wait%20for%20confirmation%20that%20the%20resource%20is%20ready%20for%20translation.)
+   * WAI staff will send you an e-mail when the resource is ready to be translated. It will include instructions for translating the file.
 
 ## Important Translations Guidance {#important}
 
@@ -95,7 +73,7 @@ By submitting a translation, you agree:
 
 ### Updating Resources
 
-If the English version of a resource is updated, we will inform translators what has changed, and request that translators update their translation.
+When the English version of a resource is updated, we will inform translators what has changed @@, and request that translators update their translation.
 
 If the changes are only small changes, such as a new paragraph or a new short section, we might add the English to the translation while awaiting an update. If the changes are substantive, the translation will be removed until an updated version is provided.
 
@@ -103,7 +81,7 @@ If the changes are only small changes, such as a new paragraph or a new short se
 
 More information is available in W3C's <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620">intellectual rights FAQ</a>, particularly under the questions starting with <a href="http://www.w3.org/Consortium/Legal/IPR-FAQ-20000620#translate">can I translate one of your specifications into another language?</a>
 
-General information about [Translations at W3C]( http://www.w3.org/Consortium/Translation/) is being updated in 2019.
+General information about [W3C Translations](http://www.w3.org/Consortium/Translation/) is being updated in 2019.
 
 ## WAI Translations Mailing List {#mailinglist}
 
