@@ -93,9 +93,8 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li>High priority <strong>introductory</strong> resources</li>
 <li>High priority <strong>WCAG</strong> resources</li>
 <li>Main navigation overview pages</li>
-<li>Second priority resources</li>
+<li>Other priority resources</li>
 <li>To be updated</li>
-<li>Others</li>
 </ol>
 
 <h3>High priority introductory resources</h3>
@@ -132,7 +131,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/">WAI home page</a> (see notes on which parts to translate)</li>
 </ul>
 
-<h3>Second priority resources</h3>
+<h3>Other priority resources</h3>
 <ul>
 <li><strong><a href="https://www.w3.org/WAI/people-use-web/">How People with Disabilities Use the Web</a></strong> &mdash; 4 pages</li>
 <li><strong>Other standards overviews:</strong>
@@ -165,7 +164,9 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/tips/writing/">Tips for Getting Started    Writing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> ([TR process](#tr))</li>
 </ul>
-</li></ul>
+</li>
+</ul>
+<p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.</strong></p>
 
 <h3>To be updated <em>(you might want to wait to translate, or be prepared to update your translation)</em></h3>
 <p>The following pages will be updated, and you might want to wait to translate them until after they are updated. To get announcements when they are updated, see <a href="https://www.w3.org/WAI/news/subscribe/">Get WAI News</a> and subscribe to the [WAI Translations maling list, per above](#mailinglist).</p>
@@ -176,8 +177,6 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/standards-guidelines/harmonization/">Why Standards Harmonization is Essential to Web Accessibility</a> (no date set for the update to be completed)</li>
 </ul>
 
-<h3>Others</h3>
-<p><strong>There are many more WAI resources available for translation. The complete list of WAI resources is available in the <a href="http://www.w3.org/WAI/sitemap.html">WAI Site Map</a>.</strong></p>
 
 ## TR Translations & Authorized W3C Translations {#tr}
 
