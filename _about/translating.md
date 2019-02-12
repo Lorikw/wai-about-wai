@@ -1,5 +1,5 @@
 ---
-title: "DRAFT UPDATE: Translating WAI Documents"
+title: "Translating WAI Documents"
 nav_title: Translating
 github:
   repository: w3c/wai-about-wai
@@ -10,7 +10,7 @@ doc-note-message: >
   <p><strong>This page is being updated in February 2019. To get notification of substantive updates, subscibe to the WAI Translations mailing list by sending e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject: &ldquo;subscribe&rdquo;</a></strong></p>
   <p><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/translations/">WCAG Translations</a></strong> is an updated list of translations of Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1.</p>
 footer: |
-  <p><strong>Date:</strong> Updated 7 February 2018.</p>
+  <p><strong>Date:</strong> Updated 13 February 2019.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/shawn">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from the Ford Foundation.</p>
 ---
@@ -81,8 +81,8 @@ General information about [W3C Translations](http://www.w3.org/Consortium/Transl
 
 ## WAI Translations Mailing List {#mailinglist}
 
-* To subscribe, send e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=subscribe">public-wai-translations-request@w3.org with subject &ldquo;subscribe&rdquo;</a>.
-* To unsubscribe, send e-mail to <a href="mailto:public-wai-translations-request@w3.org?subject=unsubscribe">public-wai-translations-request@w3.org with subject: &ldquo;unsubscribe&rdquo;</a>.
+* To subscribe, send e-mail to [public-wai-translations-request@w3.org with subject: subscribe](mailto:public-wai-translations@w3.org&amp;subject=subscribe).
+* To unsubscribe, send e-mail to [public-wai-translations-request@w3.org with subject: unsubscribe](mailto:public-wai-translations@w3.org&amp;subject=unsubscribe).
 
 You can also see the [WAI Translations List Archives ![External](//www.w3.org/Icons/tr.png)](http://lists.w3.org/Archives/Public/public-wai-translations/).
 
@@ -108,7 +108,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 
 <h3>High priority WCAG resources</h3>
 <ul>
-<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation ([TR process](#tr))
+<li><a href="http://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a> &mdash; the Web Standard / W3C Recommendation ([TR](#tr))
 <ul>
 <li><a href="http://www.w3.org/WAI/WCAG20/translations">WCAG 2 Translations</a> lists translations in-progress and completed.</li>
 <li>This document may be developed as an <a href="http://www.w3.org/2005/02/TranslationPolicy.html">Authorized W3C Translation.</a></li>
@@ -162,7 +162,7 @@ You can also see the [WAI Translations List Archives ![External](//www.w3.org/Ic
 <li><a href="https://www.w3.org/WAI/tips/developing/">Tips for Getting Started    Developing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/designing/">Tips for Getting Started Designing for Web Accessibility </a></li>
 <li><a href="https://www.w3.org/WAI/tips/writing/">Tips for Getting Started    Writing for Web Accessibility </a></li>
-<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> ([TR process](#tr))</li>
+<li><a href="https://www.w3.org/TR/wai-aria-practices/"><abbr title="Accessible Rich Internet Applications">WAI-ARIA</abbr> Authoring Practices</a> ([TR](#tr))</li>
 </ul>
 </li>
 </ul>
